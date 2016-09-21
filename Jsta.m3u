@@ -1,251 +1,31 @@
 ﻿#EXTM3U
-#EXTINF:-1,UK: TrueMovies1
-http://149.202.82.73:8000/live/abc/cba/19727.ts
-#EXTINF:-1,UK: SYFY
-http://149.202.82.73:8000/live/abc/cba/19729.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS HQ
-http://149.202.82.73:8000/live/abc/cba/19740.ts
-#EXTINF:-1,UK: SKY SPORTS F1
-http://149.202.82.73:8000/live/abc/cba/19752.ts
-#EXTINF:-1,UK: SKY SPORTS 5 HD
-http://149.202.82.73:8000/live/abc/cba/19745.ts
-#EXTINF:-1,UK: SKY SPORTS 4 HD
-http://149.202.82.73:8000/live/abc/cba/19744.ts
-#EXTINF:-1,UK: SKY SPORTS 3 HD
-http://149.202.82.73:8000/live/abc/cba/19743.ts
-#EXTINF:-1,UK: SKY SPORTS 1 JSTA
-http://iptvfree1.com:6969/live/livetvglobal.com/livetvglobal.com/1329.ts
-#EXTINF:-1,UK: SKY SPORTS 2 HD
-http://149.202.82.73:8000/live/abc/cba/19742.ts
-#EXTINF:-1,UK: SKY SPORTS 1 HD
-http://149.202.82.73:8000/live/abc/cba/19741.ts
-#EXTINF:-1,UK: SKY NEWS HD
-http://149.202.82.73:8000/live/abc/cba/19775.ts
-#EXTINF:-1,UK: SKY MOVIES THRILLER
-http://149.202.82.73:8000/live/abc/cba/19717.ts
-#EXTINF:-1,UK: SKY MOVIES SHOWCASE HD
-http://149.202.82.73:8000/live/abc/cba/19720.ts
-#EXTINF:-1,UK: SKY MOVIES SELECT HD
-http://149.202.82.73:8000/live/abc/cba/19718.ts
-#EXTINF:-1,UK: SKY MOVIES ScFi HORROR
-http://149.202.82.73:8000/live/abc/cba/19721.ts
-#EXTINF:-1,UK: SKY MOVIES PREMIERE HD
-http://149.202.82.73:8000/live/abc/cba/19719.ts
-#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
-http://149.202.82.73:8000/live/abc/cba/19723.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://149.202.82.73:8000/live/abc/cba/19724.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA HD
-http://149.202.82.73:8000/live/abc/cba/19725.ts
-#EXTINF:-1,UK: SKY MOVIES DISNEY
-http://149.202.82.73:8000/live/abc/cba/19722.ts
-#EXTINF:-1,UK: SKY MOVIES COMEDY HD
-http://149.202.82.73:8000/live/abc/cba/19726.ts
-#EXTINF:-1,UK: SKY MOVIES ACTION HD
-http://149.202.82.73:8000/live/abc/cba/19716.ts
-#EXTINF:-1,UK: Setanta-Sport
-http://149.202.82.73:8000/live/abc/cba/19760.ts
-#EXTINF:-1,UK: RT DOCUMENTARY
-http://149.202.82.73:8000/live/abc/cba/19766.ts
-#EXTINF:-1,UK: NICKTOONS
-http://149.202.82.73:8000/live/abc/cba/19782.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://149.202.82.73:8000/live/abc/cba/19778.ts
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC CHANNEL
-http://149.202.82.73:8000/live/abc/cba/19764.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://149.202.82.73:8000/live/abc/cba/19765.ts
-#EXTINF:-1,UK: Motors TV
-http://149.202.82.73:8000/live/abc/cba/19762.ts
-#EXTINF:-1,UK: LONDON LIVE
-http://149.202.82.73:8000/live/abc/cba/19776.ts
-#EXTINF:-1,UK: ITV ENCORE
-http://149.202.82.73:8000/live/abc/cba/19713.ts
-#EXTINF:-1,UK: ITV 3
-http://149.202.82.73:8000/live/abc/cba/19712.ts
-#EXTINF:-1,UK: ITV 2
-http://149.202.82.73:8000/live/abc/cba/19711.ts
-#EXTINF:-1,UK: ITV 1
-http://149.202.82.73:8000/live/abc/cba/19710.ts
-#EXTINF:-1,UK: HOME & HEALTH
-http://149.202.82.73:8000/live/abc/cba/19730.ts
-#EXTINF:-1,UK: FOX SPORTS 2 US HD
-http://149.202.82.73:8000/live/abc/cba/19759.ts
-#EXTINF:-1,UK: FOX SPORTS 1 US HD
-http://149.202.82.73:8000/live/abc/cba/19758.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://149.202.82.73:8000/live/abc/cba/19739.ts
-#EXTINF:-1,UK: EUROSPORT 1
-http://149.202.82.73:8000/live/abc/cba/19738.ts
-#EXTINF:-1,UK: E4
-http://149.202.82.73:8000/live/abc/cba/19733.ts
-#EXTINF:-1,UK: E!
-http://149.202.82.73:8000/live/abc/cba/19734.ts
-#EXTINF:-1,UK: DMAX_UK
-http://149.202.82.73:8000/live/abc/cba/19772.ts
-#EXTINF:-1,UK: Disney XD
-http://149.202.82.73:8000/live/abc/cba/19780.ts
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://149.202.82.73:8000/live/abc/cba/19781.ts
-#EXTINF:-1,UK: DISCOVERY TURBO
-http://149.202.82.73:8000/live/abc/cba/19767.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://149.202.82.73:8000/live/abc/cba/19768.ts
-#EXTINF:-1,UK: DISCOVERY INVESTIGATION
-http://149.202.82.73:8000/live/abc/cba/19769.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://149.202.82.73:8000/live/abc/cba/19770.ts
-#EXTINF:-1,UK: DISCOVERY
-http://149.202.82.73:8000/live/abc/cba/19771.ts
-#EXTINF:-1,UK: CHELSEA TV
-http://149.202.82.73:8000/live/abc/cba/19761.ts
-#EXTINF:-1,UK: CCTV NEWS
-http://149.202.82.73:8000/live/abc/cba/19774.ts
-#EXTINF:-1,UK: CBS Reality
-http://149.202.82.73:8000/live/abc/cba/19732.ts
-#EXTINF:-1,UK: CBS ACTION
-http://149.202.82.73:8000/live/abc/cba/19731.ts
-#EXTINF:-1,UK: CBBC
-http://149.202.82.73:8000/live/abc/cba/19709.ts
-#EXTINF:-1,UK: Cartoon Network
-http://149.202.82.73:8000/live/abc/cba/19779.ts
-#EXTINF:-1,UK: BT SPORT EXTRA
-http://149.202.82.73:8000/live/abc/cba/19757.ts
-#EXTINF:-1,UK: BT Sport EurHD
-http://149.202.82.73:8000/live/abc/cba/19755.ts
-#EXTINF:-1,UK: BT Sport 2
-http://149.202.82.73:8000/live/abc/cba/19754.ts
-#EXTINF:-1,UK: BT Sport 1
-http://149.202.82.73:8000/live/abc/cba/19753.ts
-#EXTINF:-1,UK: BT Sport / ESPN
-http://149.202.82.73:8000/live/abc/cba/19756.ts
-#EXTINF:-1,UK: BOX NATION HD
-http://149.202.82.73:8000/live/abc/cba/19737.ts
-#EXTINF:-1,UK: BBC_2
-http://149.202.82.73:8000/live/abc/cba/19708.ts
-#EXTINF:-1,UK: BBC 1
-http://149.202.82.73:8000/live/abc/cba/19707.ts
-#EXTINF:-1,UK: 5 STAR
-http://149.202.82.73:8000/live/abc/cba/19735.ts
-#EXTINF:-1,UK:  ITV BE
-http://149.202.82.73:8000/live/abc/cba/19714.ts
-#EXTINF:-1,[ AL ] TRING SHQIP
-http://149.202.82.73:8000/live/abc/cba/19404.ts
-#EXTINF:-1,[ AL ] TRING PLANET
-http://149.202.82.73:8000/live/abc/cba/19405.ts
-#EXTINF:-1,[ AL ] TRING MAX
-http://149.202.82.73:8000/live/abc/cba/19406.ts
-#EXTINF:-1,[ AL ] TRING LIFE
-http://149.202.82.73:8000/live/abc/cba/19407.ts
-#EXTINF:-1,[ AL ] TRING JUNIOR
-http://149.202.82.73:8000/live/abc/cba/19408.ts
-#EXTINF:-1,[ AL ] TRING JOLLY HD
-http://149.202.82.73:8000/live/abc/cba/19409.ts
-#EXTINF:-1,[ AL ] TRING HISTORY HD
-http://149.202.82.73:8000/live/abc/cba/19410.ts
-#EXTINF:-1,[ AL ] TRING FOLK
-http://149.202.82.73:8000/live/abc/cba/19411.ts
-#EXTINF:-1,[ AL ] TRING FANTASY HD
-http://149.202.82.73:8000/live/abc/cba/19412.ts
-#EXTINF:-1,[ AL ] TRING COMEDY HD
-http://149.202.82.73:8000/live/abc/cba/19413.ts
-#EXTINF:-1,[ AL ] TRING AUTOR
-http://149.202.82.73:8000/live/abc/cba/19414.ts
-#EXTINF:-1,[ AL ] RTV 21 SAT
-http://149.202.82.73:8000/live/abc/cba/19427.ts
-#EXTINF:-1,[ AL ] RTV 21 POPULLORE
-http://149.202.82.73:8000/live/abc/cba/19428.ts
-#EXTINF:-1,[ AL ] RTV 21 PLUS HD
-http://149.202.82.73:8000/live/abc/cba/19429.ts
-#EXTINF:-1,[ AL ] RTV 21 M
-http://149.202.82.73:8000/live/abc/cba/19430.ts
-#EXTINF:-1,[ AL ] RTV 21 HD
-http://149.202.82.73:8000/live/abc/cba/19431.ts
-#EXTINF:-1,[ AL ] RTK 1
-http://149.202.82.73:8000/live/abc/cba/19434.ts
-#EXTINF:-1,[ AL ] RTK 3
-http://149.202.82.73:8000/live/abc/cba/19433.ts
-#EXTINF:-1,[ AL ] RTK 4
-http://149.202.82.73:8000/live/abc/cba/19432.ts
-#EXTINF:-1,[ AL ] TRING SPORT 1
-http://149.202.82.73:8000/live/abc/cba/19403.ts
-#EXTINF:-1,[ AL ] TRING SPORT 3 HD
-http://149.202.82.73:8000/live/abc/cba/19402.ts
-#EXTINF:-1,[ AL ] TRING SPORT 4 HD
-http://149.202.82.73:8000/live/abc/cba/19401.ts
-#EXTINF:-1,[ AL ] ARENA SPORT 1
-http://149.202.82.73:8000/live/abc/cba/19439.ts
-#EXTINF:-1,[ AL ] ARENA SPORT 2
-http://149.202.82.73:8000/live/abc/cba/19438.ts
-#EXTINF:-1,[ AL ] ARENA SPORT 3
-http://149.202.82.73:8000/live/abc/cba/19437.ts
-#EXTINF:-1,[ AL ] ARENA SPORT 4
-http://149.202.82.73:8000/live/abc/cba/19436.ts
-#EXTINF:-1,[ AL ] ARENA SPORT 5
-http://149.202.82.73:8000/live/abc/cba/19435.ts
-#EXTINF:-1,[ AL ] TELESPORT
-http://149.202.82.73:8000/live/abc/cba/19415.ts
-#EXTINF:-1,[ AL ] SUPERSONIC
-http://149.202.82.73:8000/live/abc/cba/19423.ts
-#EXTINF:-1,[ AL ] SUPERSPORT 1
-http://149.202.82.73:8000/live/abc/cba/19422.ts
-#EXTINF:-1,[ AL ] SUPERSPORT 2
-http://149.202.82.73:8000/live/abc/cba/19421.ts
-#EXTINF:-1,[ AL ] SUPERSPORT 3
-http://149.202.82.73:8000/live/abc/cba/19420.ts
-#EXTINF:-1,[ AL ] SUPERSPORT 4
-http://149.202.82.73:8000/live/abc/cba/19419.ts
-#EXTINF:-1,[ AL ] SUPERSPORT 5
-http://149.202.82.73:8000/live/abc/cba/19418.ts
-#EXTINF:-1,[ AL ] SUPERSPORT KOSOVO 1 HD
-http://149.202.82.73:8000/live/abc/cba/19416.ts
-#EXTINF:-1,[ AL ] SUPERSPORT KOSOVA 2 HD
-http://149.202.82.73:8000/live/abc/cba/19417.ts
-#EXTINF:-1,[ AL ] SUPER SPORT 1 HD
-http://149.202.82.73:8000/live/abc/cba/19426.ts
-#EXTINF:-1,[ AL ] SUPER SPORT 2 HD
-http://149.202.82.73:8000/live/abc/cba/19425.ts
-#EXTINF:-1,[ AL ] SUPER SPORT 4 HD
-http://149.202.82.73:8000/live/abc/cba/19424.ts
-#EXTINF:-1,•●★-USA CHANNELS-★●•
-http://149.202.82.73:8000/live/abc/cba/19875.ts
-#EXTINF:-1,US:Versus-NBA_HD
-http://149.202.82.73:8000/live/abc/cba/19877.ts
-#EXTINF:-1,US:USA-Network
-http://149.202.82.73:8000/live/abc/cba/19878.ts
-#EXTINF:-1,US:TSN-5HD
-http://149.202.82.73:8000/live/abc/cba/19883.ts
-#EXTINF:-1,US:TSN-2HD
-http://149.202.82.73:8000/live/abc/cba/19880.ts
-#EXTINF:-1,US:Sports-Net
-http://149.202.82.73:8000/live/abc/cba/19887.ts
-#EXTINF:-1,US:Showtime-HD
-http://149.202.82.73:8000/live/abc/cba/19888.ts
-#EXTINF:-1,US:Pocker-Central
-http://149.202.82.73:8000/live/abc/cba/19890.ts
-#EXTINF:-1,US:HBO-ZONE
-http://149.202.82.73:8000/live/abc/cba/19897.ts
-#EXTINF:-1,US:HBO-SIGNATURE
-http://149.202.82.73:8000/live/abc/cba/19898.ts
-#EXTINF:-1,US:HBO-COMEDY
-http://149.202.82.73:8000/live/abc/cba/19899.ts
-#EXTINF:-1,US:HBO
-http://149.202.82.73:8000/live/abc/cba/19896.ts
-#EXTINF:-1,US:H2
-http://149.202.82.73:8000/live/abc/cba/19901.ts
-#EXTINF:-1,US:Food-Network
-http://149.202.82.73:8000/live/abc/cba/19903.ts
-#EXTINF:-1,US:Espn-HD
-http://149.202.82.73:8000/live/abc/cba/19906.ts
-#EXTINF:-1,US:Discovery-Science_HD
-http://149.202.82.73:8000/live/abc/cba/19907.ts
-#EXTINF:-1,US:CBS-DRAMA
-http://149.202.82.73:8000/live/abc/cba/19909.ts
-#EXTINF:-1,US:CBS-ACTION
-http://149.202.82.73:8000/live/abc/cba/19910.ts
-#EXTINF:-1,US:BYU-Sports_HD
-http://149.202.82.73:8000/live/abc/cba/19911.ts
-#EXTINF:-1,US:AFN-SPORTS-2
-http://149.202.82.73:8000/live/abc/cba/19913.ts
-#EXTINF:-1,US:ABC-News_HD
-http://149.202.82.73:8000/live/abc/cba/19914.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/481.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/480.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/475.ts
+#EXTINF:-1,UK: Sky Sports 1.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2755.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/476.ts
+#EXTINF:-1,UK: Sky Sports 2.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2756.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/477.ts
+#EXTINF:-1,UK: Sky Sports 3.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2757.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/478.ts
+#EXTINF:-1,UK: Sky Sports 4.
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/2758.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/479.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/462.ts
+#EXTINF:-1,UK: Racing UK
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/459.ts
+#EXTINF:-1,UK: Disney Channel
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/440.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptv.cardsharebox.com:8000/live/widmanphilip/xGCJQAGdd5/783.ts
